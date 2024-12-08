@@ -4,7 +4,6 @@ import FullImage from './full_stack_development_about.svg';  // Adjust the path 
 export default class FullStackImg extends Component {
   render() {
    
-      const theme = this.props.theme;
   
       return (
         <div>

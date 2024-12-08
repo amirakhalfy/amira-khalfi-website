@@ -4,7 +4,6 @@ import cloudImage from './handdrawn.png';
 
 export default class CloudInfraImg extends Component {
   render() {
-    const theme = this.props.theme;
     return (
     
               <div>
